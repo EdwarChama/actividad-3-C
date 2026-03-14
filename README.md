@@ -24,3 +24,10 @@ Para instalar GCC en Linux (Ubuntu):
 ```bash
 sudo apt update
 sudo apt install build-essential
+```
+
+## Datos del autor
+
+Nombre: Edwar Chamalé  
+Correo: edwar.chamale@galileo.edu  
+Carnet: 26000149
